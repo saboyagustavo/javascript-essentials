@@ -4,37 +4,12 @@ _Oferecido pela [DIO](https://digitalinnovation.one/) - [Digital Innovation One]
 _Ministrado pelo [Guilherme Cabrini](https://github.com/guilhermecabrini/introducao-ao-javascript-dio)_
 ## Assuntos gerais abordados no curso
 ### História e Conceitos
-- [x] tipagem fraca
-- [x] tipagem dinâmica
-- [x] imutabilidade
-> - [x] imutabilidade-filter
-- [x] funcoes primeira classe e ordem maior
-- [x] hoisting de variáveis
-- [x] hoisting de funções
-- [x] closure
-- [x] currying
-
-### Variáveis
-- [x] let
-- [x] const
-- [x] escopo
-- [x] variáveis locais e globais
-### Estruturas de controle
-> #### Condicionais
-- [x] if
-- [x] else
-> #### Laços e repetição
-- [x] for
-- [x] while
-### Arrays e alguns métodos; objects  
-- [x] push; pop e length
-- [x] reverse array
-- [x] toString e join
-### Funções
-- [x] function
-### Eventos
-- [x] onclick
-- [x] onmouseover
-- [x] onmouseout
-- [x] onchange
-- [x] onload
+- [] tipagem fraca
+- [] tipagem dinâmica
+- [] imutabilidade
+> - [] imutabilidade-filter
+- [] funcoes primeira classe e ordem maior
+- [] hoisting de variáveis
+- [] hoisting de funções
+- [] closure
+- [] currying
