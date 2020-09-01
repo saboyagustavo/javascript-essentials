@@ -6,4 +6,16 @@ function getName() {
 function logFn(fn) {
     console.log(fn());
 }
-logFn(getName);
+
+//functions as variables value and other data structures
+const logFnResult = logFn; 
+
+const obj = {
+logFn: logFn
+}
+
+const arr = [logFn]
+
+console.log(obj); // [ [Function:logFn] ]
+console.log(arr); // { logFn: [Function: logFn] }
+logFnResult(getName); //Gustavo Saboya
