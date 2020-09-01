@@ -5,7 +5,7 @@ _Ministrado pelo [Guilherme Cabrini](https://github.com/guilhermecabrini/introdu
 ## Assuntos gerais abordados no curso
 ### História e Conceitos
 - [] tipagem fraca
-- [] tipagem dinâmica
+- [x] tipagem dinâmica
 - [] imutabilidade
 > - [] imutabilidade-filter
 - [] funcoes primeira classe e ordem maior
