@@ -4,7 +4,7 @@ _Oferecido pela [DIO](https://digitalinnovation.one/) - [Digital Innovation One]
 _Ministrado pelo [Guilherme Cabrini](https://github.com/guilhermecabrini/introducao-ao-javascript-dio)_
 ## Assuntos gerais abordados no curso
 ### História e Conceitos
-- [] tipagem fraca
+- [x] tipagem fraca
 - [x] tipagem dinâmica
 - [] imutabilidade
 > - [] imutabilidade-filter
