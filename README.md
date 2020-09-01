@@ -12,5 +12,5 @@ _Ministrado pelo [Guilherme Cabrini](https://github.com/guilhermecabrini/introdu
 - [] funções de ordem maior
 - [] hoisting de variáveis
 - [] hoisting de funções
-- [] closure
+- [x] closure
 - [] currying
