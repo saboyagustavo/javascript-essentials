@@ -13,4 +13,4 @@ _Ministrado pelo [Guilherme Cabrini](https://github.com/guilhermecabrini/introdu
 - [] hoisting de variáveis
 - [] hoisting de funções
 - [x] closure
-- [] currying
+- [x] currying
