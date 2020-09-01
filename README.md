@@ -8,7 +8,8 @@ _Ministrado pelo [Guilherme Cabrini](https://github.com/guilhermecabrini/introdu
 - [x] tipagem dinâmica
 - [] imutabilidade
 > - [] imutabilidade-filter
-- [] funcoes primeira classe e ordem maior
+- [x] funções primeira classe 
+- [] funções de ordem maior
 - [] hoisting de variáveis
 - [] hoisting de funções
 - [] closure
