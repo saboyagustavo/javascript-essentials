@@ -6,7 +6,7 @@ _Ministrado pelo [Guilherme Cabrini](https://github.com/guilhermecabrini/introdu
 ### História e Conceitos
 - [x] tipagem fraca
 - [x] tipagem dinâmica
-- [] imutabilidade
+- [x] imutabilidade
 > - [] imutabilidade-filter
 - [x] funções primeira classe 
 - [] funções de ordem maior
