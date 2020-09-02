@@ -10,7 +10,7 @@ _Ministrado pelo [Guilherme Cabrini](https://github.com/guilhermecabrini/introdu
 > - [] imutabilidade-filter
 - [x] funções primeira classe 
 - [] funções de ordem maior
-- [] hoisting de variáveis
+- [x] hoisting de variáveis
 - [] hoisting de funções
 - [x] closure
 - [x] currying
