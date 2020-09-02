@@ -14,3 +14,9 @@ _Ministrado pelo [Guilherme Cabrini](https://github.com/guilhermecabrini/introdu
 - [x] hoisting de funções
 - [x] closure
 - [x] currying
+
+### Tipos e Variáveis
+- [] escopos
+- [x] var
+- [] let 
+- [] const 
