@@ -6,11 +6,11 @@ _Ministrado pelo [Guilherme Cabrini](https://github.com/guilhermecabrini/introdu
 ### História e Conceitos
 - [x] tipagem fraca
 - [x] tipagem dinâmica
-- [x] imutabilidade
-> - [] imutabilidade-filter
+- [x] imutabilidade 
+> - [x] diferentes maneiras de obter novos objetos 
 - [x] funções primeira classe 
-- [] funções de ordem maior
+- [x] funções de ordem maior
 - [x] hoisting de variáveis
-- [] hoisting de funções
+- [x] hoisting de funções
 - [x] closure
 - [x] currying

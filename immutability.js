@@ -42,12 +42,39 @@ const userSkills = {
 //console.log(userSkills); // -> { name: 'Gustavo', age: 28, gender: 'M', alive: true, cook: true, sing: true, write: true, fly: false}
 
 //by function
-const userWithFullName = (user) =>  {
+const userWithFullName = (user) => {
     return {
         ...user,
         fullName: `${user.name} ${user.lastName}`
     }
 }
-
+/*
 console.log(userWithFullName(user[0]).fullName); //-> Gustavo Saboya
 console.log(user[0]) // -> remains the same
+*/
+
+const students = [
+    {
+        name: 'Stuart',
+        grade: 7
+    },
+    {
+        name: 'Grace',
+        grade: 4
+    },
+    {
+        name: 'Valerie',
+        grade: 10
+    },
+    {
+        name: 'George',
+        grade: 6
+    }
+];
+
+const getApprovedStudents = (studentsList) => {
+    return studentsList.filter(student => student.grade >= 7);
+}
+
+console.log('Approved students:')
+console.log(getApprovedStudents(students));
