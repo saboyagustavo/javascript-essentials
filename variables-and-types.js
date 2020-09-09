@@ -1,34 +1,24 @@
-//before ES6 there was only two kind of scopes: global and local; by the implementation of let and const keywords, we got another kind of: the block scope.
+//Strings are useful for holding data, and are used to represent and manipulate a sequence of characters"
+const textSize = "Any kind of text".length; //doublequote
+console.log(`How many characters: ${textSize}`); //16
 
-//exploring const and its features
-/*
-const name = 'Gus';
-//console.log(name); // Gus
+console.log('cat'.charAt(0)); //c
+//treating string as an array-like object
+console.log('cat'[1]); //a
 
-//can't change the value
-name = 'Rick';
-console.log(name); //TypeError: Assignment to constant variable.
-*/
+const splittedText = 'I scream, you scream, we all scream for ice cream'.split('scream');
+console.log('\n',splittedText); // [ 'I ', ', you ', ', we all ', ' for ice cream' ]
 
+const replacedText = 'You know New York, you need New York, you know you need unique New York'.replace('You','We');
+console.log('\n', replacedText);
 
-//if the const is an object we can change it's properties
-const user = {
-    name:'Gus'
-}
-console.log(user.name); //Gustavo
+const lastChar = 'Gustavo'.slice(-1);
+console.log('\n',lastChar)
 
-user.name = 'someone else';
-console.log(user.name); //someone else
+const firstTwoChars = 'Text'.substring(0,2);
+console.log('\n', firstTwoChars);
 
-const persons = ['Rick', 'Val', 'Meg'];
-
-//we can add, change and remove items 
-persons.push('Gus');
-console.log(persons); //[ 'Rick', 'Val', 'Meg', 'Gus' ]
-
-persons[1] = 'Emily';
-console.log(persons); //[ 'Rick', 'Emily', 'Meg', 'Gus' ]
-
-persons.shift();
-console.log(persons); //['Emily', 'Meg', 'Gus' ]
-
+//primitive and object string
+let s_obj = new String(lastChar);
+console.log(typeof lastChar);
+console.log(typeof s_obj);

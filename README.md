@@ -22,23 +22,12 @@ _Ministrado pelo [Guilherme Cabrini](https://github.com/guilhermecabrini/introdu
 - [x] const 
 
 ### Tipos
-- [] String
+- [x] String
 - [] Number
 - [] Boolean
 - [] Undefined
 - [] Null
 - [] Symbol
-- [] Error
-- []RegExp
-- [] 
-- []
-- [] 
-- []
-- [] 
-- []
-- [] 
-- []
-- [] 
-- []
-- [] 
-- []
+- [] Object
+- [] Function
+- [] Array
