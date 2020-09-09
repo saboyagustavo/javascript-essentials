@@ -19,7 +19,7 @@ _Ministrado pelo [Guilherme Cabrini](https://github.com/guilhermecabrini/introdu
 - [x] escopos
 - [x] var
 - [x] let 
-- [] const 
+- [x] const 
 
 ### Tipos
 - [] String
