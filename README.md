@@ -15,8 +15,30 @@ _Ministrado pelo [Guilherme Cabrini](https://github.com/guilhermecabrini/introdu
 - [x] closure
 - [x] currying
 
-### Tipos e Variáveis
-- [] escopos
+### Variáveis
+- [x] escopos
 - [x] var
-- [] let 
+- [x] let 
 - [] const 
+
+### Tipos
+- [] String
+- [] Number
+- [] Boolean
+- [] Undefined
+- [] Null
+- [] Symbol
+- [] Error
+- []RegExp
+- [] 
+- []
+- [] 
+- []
+- [] 
+- []
+- [] 
+- []
+- [] 
+- []
+- [] 
+- []
