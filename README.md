@@ -31,8 +31,8 @@ _Ministrado pelo [Guilherme Cabrini](https://github.com/guilhermecabrini/introdu
 -   [x] String
 -   [x] Number
 -   [] Boolean
--   [] Undefined
--   [] Null
+-   [x] Undefined
+-   [x] Null
 -   [] Symbol
 -   [] Object
 -   [] Function
