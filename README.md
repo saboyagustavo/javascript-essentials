@@ -11,6 +11,7 @@ _Ministrado pelo [Guilherme Cabrini](https://github.com/guilhermecabrini/introdu
 -   [x] tipagem fraca
 -   [x] tipagem dinâmica
 -   [x] imutabilidade
+    
     > -   [x] diferentes maneiras de obter novos objetos
 -   [x] funções primeira classe
 -   [x] funções de ordem maior
@@ -30,10 +31,10 @@ _Ministrado pelo [Guilherme Cabrini](https://github.com/guilhermecabrini/introdu
 
 -   [x] String
 -   [x] Number
--   [] Boolean
+-   [x] Boolean
 -   [x] Undefined
 -   [x] Null
 -   [] Symbol
--   [] Object
+-   [x] Object
 -   [] Function
 -   [] Array
